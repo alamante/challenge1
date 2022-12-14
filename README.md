@@ -1,7 +1,7 @@
 # challenge1
 ## Description
 
-Marketing Agency website is an SEO enhanment project. The aim was to enhance the SEO and functionality of the website by adding alt to it's images and simplifying css
+Marketing Agency website is an SEO enhanment project. The aim was to enhance the SEO and functionality of the website by adding alt attribute to it's images and simplifying css
 
 ## Installation
 
